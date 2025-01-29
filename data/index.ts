@@ -180,14 +180,14 @@ export const navItems = [
     {
       id: 2,
       title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      desc: "Designed and developed websites that are optimised for mobile devices.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Freelance Web App Dev Project",
+      desc: "Designed and developed Front-End and Back-End web application using React.js and Next.js",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
@@ -203,14 +203,11 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
+      link: "https://github.com/Andrey-Chas",
       img: "/git.svg",
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
     },
   ];
