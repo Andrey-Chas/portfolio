@@ -208,6 +208,7 @@ export const navItems = [
     },
     {
       id: 2,
+      link: "https://www.linkedin.com/in/andrey-chasovskoy-40894b23b/",
       img: "/link.svg",
     },
   ];
